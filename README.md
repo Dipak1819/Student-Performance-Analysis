@@ -1,8 +1,7 @@
 # Student-Performance-Analysis::Abstract
 <div style="text-align: justify;">
-This is an example of justified text in a GitHub README file. The text will be aligned so that it has a straight edge on both the left and right sides, creating a neat block of text for better readability.
 This project explores the key factors influencing student performance in Nepalese schools by analyzing a comprehensive dataset containing 6,607 records across 20 variables. The dataset encompasses a wide range of attributes, including socio-economic factors (such as family income and parental education), academic inputs (hours studied, tutoring sessions, and teacher quality), and behavioral factors (motivation level, peer influence, and physical activity). The target variable, Exam Score, serves as the benchmark for evaluating student outcomes.
-
+</div>
 The primary objective of this analysis is to provide actionable insights to the Ministry of Education in Nepal, enabling data-driven policy formulation aimed at improving educational outcomes. To achieve this, we employed rigorous data preparation techniques, including handling missing data, encoding categorical variables, and scaling numerical features. Following data preprocessing, machine learning models—specifically Decision Tree and Logistic Regression—were trained and evaluated to predict student performance and uncover critical determinants. The models were chosen based on their interpretability and ability to capture complex interactions between features.
 
 Results from both models revealed that factors such as access to resources, parental involvement, and the presence of learning disabilities significantly impact Exam Scores. The analysis also highlighted disparities in performance based on socio-economic conditions and school proximity, offering insights into areas where targeted interventions could make a meaningful difference.
